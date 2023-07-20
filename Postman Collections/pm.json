@@ -1,0 +1,59 @@
+{
+	"info": {
+		"_postman_id": "68e0bf8b-5813-44bf-8f2d-9413fef39638",
+		"name": "NewColFlask",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "GET",
+			"item": [
+				{
+					"name": "/",
+					"_postman_id": "48ab6f00-f56c-4652-987f-b85b23137487",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://127.0.0.1:5000"
+					},
+					"response": []
+				},
+				{
+					"name": "user",
+					"_postman_id": "9bc7a862-567d-465c-b182-a94247d7019a",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://127.0.0.1:5000/user/"
+					},
+					"response": []
+				},
+				{
+					"name": "user/uid",
+					"_postman_id": "bd530c25-05c0-418c-8141-8b0e070b23be",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": "http://127.0.0.1:5000/user/1"
+					},
+					"response": []
+				}
+			],
+			"_postman_id": "25bcafa0-39d6-40f7-bc80-674c641f2657"
+		},
+		{
+			"name": "POST",
+			"item": [],
+			"_postman_id": "48bf987a-0cda-482e-a55b-ee59853f2761"
+		}
+	]
+}
