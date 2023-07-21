@@ -10,7 +10,7 @@
 			"item": [
 				{
 					"name": "/",
-					"_postman_id": "48ab6f00-f56c-4652-987f-b85b23137487",
+					"id": "48ab6f00-f56c-4652-987f-b85b23137487",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -23,7 +23,7 @@
 				},
 				{
 					"name": "user",
-					"_postman_id": "9bc7a862-567d-465c-b182-a94247d7019a",
+					"id": "9bc7a862-567d-465c-b182-a94247d7019a",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -36,7 +36,7 @@
 				},
 				{
 					"name": "user/uid",
-					"_postman_id": "bd530c25-05c0-418c-8141-8b0e070b23be",
+					"id": "bd530c25-05c0-418c-8141-8b0e070b23be",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -48,12 +48,12 @@
 					"response": []
 				}
 			],
-			"_postman_id": "25bcafa0-39d6-40f7-bc80-674c641f2657"
+			"id": "25bcafa0-39d6-40f7-bc80-674c641f2657"
 		},
 		{
 			"name": "POST",
 			"item": [],
-			"_postman_id": "48bf987a-0cda-482e-a55b-ee59853f2761"
+			"id": "48bf987a-0cda-482e-a55b-ee59853f2761"
 		}
 	]
 }
